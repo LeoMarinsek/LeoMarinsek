@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Leonardo Marinsek
 
 - 🔭 Hoje sou Desenvolvedor em formação.
-- 🌱 Estudando Python e JavaScript.
+- 🌱 Estudando Python e Java.
 
 <div align="center">
   <a href="https://github.com/LeoMarinsek">
